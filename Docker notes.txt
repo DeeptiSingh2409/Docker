@@ -1,0 +1,2 @@
+to create tags:: docker tag <image_name> <username>/<repository>:<tagname>
+to push to docker hub :: docker push <username>/<repository>:<tagname>
